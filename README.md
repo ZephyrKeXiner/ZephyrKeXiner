@@ -10,6 +10,10 @@
   <a href="https://www.zhihu.com/people/sakruhnab1-54">
     <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" />
   </a>&nbsp;&nbsp;
+
+  <a href="https://medium.com/@aruiskyhappy2">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 - Doc 📝: I'm currently responsible for the Chinese documentation of the library @obss/sahi
