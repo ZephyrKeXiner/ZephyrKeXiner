@@ -3,8 +3,12 @@
 <p align='center'>
   Follow me for more!
   <br>
-  <a href="https://twitter.com/fcakyon">
+  <a href="https://x.com/Zephyrkexiner">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.zhihu.com/people/sakruhnab1-54">
+    <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
