@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, It's ZephyrKeXiner👋
+
+<p align='center'>
+  Follow me for more!
+  <br>
+  <a href="https://twitter.com/fcakyon">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
 - Doc 📝: I'm currently responsible for the Chinese documentation of the library @obss/sahi
 - Project 💻:
