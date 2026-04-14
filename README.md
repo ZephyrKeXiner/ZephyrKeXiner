@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- Doc 📝: I'm currently responsible for the Chinese documentation of the library @obss/sahi
+- Project 💻:
+  1. Coda: A Coding AI Agent of mine. My way of learning about how to build an agent.
+  2. Prism: An AI Chatbot in the financial field. I integrated the Stripe payment with the project and built a Next.js project with Claude.
+  3. ...
+- Hobby ✈️:
+  1. Racing car/F1
+  2. Flight model/Drone: Working with Ardupilot.
+- Soon 🔜: ...
 <!--
 **ZephyrKeXiner/ZephyrKeXiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
