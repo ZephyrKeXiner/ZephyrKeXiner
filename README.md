@@ -20,7 +20,7 @@
 - Project 💻:
   1. Coda: A Coding AI Agent of mine. My way of learning about how to build an agent.
   2. Prism: An AI Chatbot in the financial field. I integrated the Stripe payment with the project and built a Next.js project with Claude.
-  3. ...
+  3. Cadance: An AI inference engine by my hand.  **I'm learning and working for it!**
 - Hobby ✈️:
   1. Racing car/F1
   2. Flight model/Drone: Working with Ardupilot.
