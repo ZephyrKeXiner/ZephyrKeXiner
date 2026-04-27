@@ -18,12 +18,14 @@
 
 - Doc 📝: I'm currently responsible for the Chinese documentation of the library @obss/sahi
 - Project 💻:
-  1. Coda: A Coding AI Agent of mine. My way of learning about how to build an agent.
-  2. Prism: An AI Chatbot in the financial field. I integrated the Stripe payment with the project and built a Next.js project with Claude.
-  3. Cadance: An AI inference engine by my hand.  **I'm learning and working for it!**
+  1. Coda: My own coding AI Agent and the hands-on exploration of how to build agents. Over time, it will be rewritten to Swift to align with the backend Cadence and fully leverage the power of Apple Silicon.
+  2. Cadence: An AI inference engine by my hand. It uses MPSGraph framework and focus on Edge AI Agent(by the way, on macOS). MPSGraph gives more flexibility than MLX, which is released by Apple officially, for the agent use cases. **I'm learning and working for it!**
+  3. Prism: An AI Chatbot for finance. I integrated Stripe payment and many financial APIs with the project and built a Next.js project with Claude Code and Codex, with built-in quantitative factors support calculated by my own MCP server.
+
 - Hobby ✈️:
-  1. Racing car/F1
-  2. Flight model/Drone: Working with Ardupilot.
+  1. Racing car/F1 🏎️.
+  2. Flight model/Drone: Working with Ardupilot/PX4.
+  3. Write down some of my thinking about society, technology and world. 
 - Soon 🔜: ...
 <!--
 **ZephyrKeXiner/ZephyrKeXiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
