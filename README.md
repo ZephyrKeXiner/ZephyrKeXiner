@@ -22,6 +22,12 @@
   2. Cadence: An AI inference engine by my hand. It uses MPSGraph framework and focus on Edge AI Agent(by the way, on macOS). MPSGraph gives more flexibility than MLX, which is released by Apple officially, for the agent use cases. **I'm learning and working for it!**
   3. Prism: An AI Chatbot for finance. I integrated Stripe payment and many financial APIs with the project and built a Next.js project with Claude Code and Codex, with built-in quantitative factors support calculated by my own MCP server.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZephyrKeXiner/ZephyrKeXiner/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZephyrKeXiner/ZephyrKeXiner/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZephyrKeXiner/ZephyrKeXiner/output/github-contribution-grid-snake.svg" />
+</picture>
+
 - Hobby ✈️:
   1. Racing car/F1 🏎️.
   2. Flight model/Drone: Working with Ardupilot/PX4.
