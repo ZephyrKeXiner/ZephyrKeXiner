@@ -1,7 +1,10 @@
-## Hi there, It's ZephyrKeXiner👋
+<h1 align="center">Hi, I'm ZephyrKeXiner👋</h1>
+
+<p align="center">
+  AI agent builder, edge AI explorer, and open-source documentation contributor.
+</p>
 
 <p align='center'>
-  Follow me for more!
   <br>
   <a href="https://x.com/Zephyrkexiner">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -16,34 +19,48 @@
   </a>&nbsp;&nbsp;
 </p>
 
-- Doc 📝: I'm currently responsible for the Chinese documentation of the library @obss/sahi
-- Project 💻:
-  1. Coda: My own coding AI Agent and the hands-on exploration of how to build agents. Over time, it will be rewritten to Swift to align with the backend Cadence and fully leverage the power of Apple Silicon.
-  2. Cadence: An AI inference engine by my hand. It uses MPSGraph framework and focus on Edge AI Agent(by the way, on macOS). MPSGraph gives more flexibility than MLX, which is released by Apple officially, for the agent use cases. **I'm learning and working for it!**
-  3. Prism: An AI Chatbot for finance. I integrated Stripe payment and many financial APIs with the project and built a Next.js project with Claude Code and Codex, with built-in quantitative factors support calculated by my own MCP server.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZephyrKeXiner/ZephyrKeXiner/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZephyrKeXiner/ZephyrKeXiner/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ZephyrKeXiner/ZephyrKeXiner/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZephyrKeXiner/ZephyrKeXiner/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZephyrKeXiner/ZephyrKeXiner/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZephyrKeXiner/ZephyrKeXiner/output/github-contribution-grid-snake.svg" />
-</picture>
+## Focus
 
-- Hobby ✈️:
-  1. Racing car/F1 🏎️.
-  2. Flight model/Drone: Working with Ardupilot/PX4.
-  3. Write down some of my thinking about society, technology and world. 
-- Soon 🔜: ...
-<!--
-**ZephyrKeXiner/ZephyrKeXiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Building AI coding agents and practical agent workflows.
+- Exploring edge AI inference on Apple Silicon and macOS.
+- Shipping finance-oriented AI products with real data and billing.
+- Writing and maintaining developer documentation.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it is | Stack / Focus |
+| --- | --- | --- |
+| [Coda](https://github.com/ZephyrKeXiner/coda) | My own coding AI agent and hands-on exploration of how to build agents. | Agents, tooling, MCP |
+| [Cadence](https://github.com/ZephyrKeXiner/cadence) | An AI inference engine focused on edge AI agent use cases on macOS. | Swift, MPSGraph, Apple Silicon |
+| [Prism](https://github.com/ZephyrKeXiner/prism-ai-chatbot) | A finance AI chatbot with payments, financial APIs, and quantitative factor support. | Next.js, Stripe, finance APIs |
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
+</p>
+
+## Writing & Documentation
+
+- Chinese documentation contributor for [`@obss/sahi`](https://github.com/obss/sahi).
+- Writing about technology, society, and the world on [Medium](https://medium.com/@aruiskyhappy2), [Zhihu](https://www.zhihu.com/people/sakruhnab1-54) and [X](https://x.com/Zephyrkexiner)
+
+## Beyond Code
+
+- Racing cars and F1.
+- Flight models and drones, especially ArduPilot and PX4.
+- Long-form thinking about how technology changes society.
