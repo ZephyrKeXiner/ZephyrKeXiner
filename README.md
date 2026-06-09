@@ -38,9 +38,9 @@
 
 | Project | What it is | Stack / Focus |
 | --- | --- | --- |
+| [SAHI Postprocess Acceleration](https://github.com/obss/sahi) | Prototyped and benchmarked a Triton packed-bitmask backend for GreedyNMM + IOS sliced-inference postprocessing, preserving NumPy parity while reaching up to 10.7x median speedup on large clustered-box workloads. | Python, PyTorch, Triton, CUDA |
 | [Coda](https://github.com/ZephyrKeXiner/coda) | My own coding AI agent and hands-on exploration of how to build agents. | Agents, tooling, MCP |
 | [Cadence](https://github.com/ZephyrKeXiner/cadence) | An AI inference engine focused on edge AI agent use cases on macOS. | Swift, MPSGraph, Apple Silicon |
-| [Prism](https://github.com/ZephyrKeXiner/prism-ai-chatbot) | A finance AI chatbot with payments, financial APIs, and quantitative factor support. | Next.js, Stripe, finance APIs |
 
 ## Tech Stack
 
