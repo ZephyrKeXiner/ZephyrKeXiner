@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm ZephyrKeXiner👋</h1>
 
 <p align="center">
-  AI agent builder, edge AI explorer, and open-source documentation contributor.
+  AI agent builder, edge AI explorer, and open-source contributor.
 </p>
 
 <p align='center'>
@@ -34,17 +34,18 @@
 - Shipping finance-oriented AI products with real data and billing.
 - Writing and maintaining developer documentation.
 
-## Featured Projects
+## Featured Contributions
 
-| Project | What it is | Stack / Focus |
+| Project | Contributions | Stack / Focus |
 | --- | --- | --- |
-| [SAHI Postprocess Acceleration](https://github.com/obss/sahi) | Prototyped and benchmarked a Triton packed-bitmask backend for GreedyNMM + IOS sliced-inference postprocessing, preserving NumPy parity while reaching up to 10.7x median speedup on large clustered-box workloads. | Python, PyTorch, Triton, CUDA |
-| [Coda](https://github.com/ZephyrKeXiner/coda) | My own coding AI agent and hands-on exploration of how to build agents. | Agents, tooling, MCP |
-| [Cadence](https://github.com/ZephyrKeXiner/cadence) | An AI inference engine focused on edge AI agent use cases on macOS. | Swift, MPSGraph, Apple Silicon |
+| [SAHI](https://github.com/obss/sahi) | Optimized crowded NMM postprocessing with claimed-box pruning and STRtree rebuilding, reaching [381.1x speedup on a 33,337-box IOS benchmark on M4 Pro](https://github.com/obss/sahi/pull/1426). Fixed Numba parity and macOS MPS auto-detection, and maintained Chinese documentation. | Python, NumPy, Shapely, Numba, PyTorch, MPS |
+| [AhakeyAI/desktop](https://github.com/AhakeyAI/desktop) | Contributed macOS VoiceAgent orchestration and Feishu/Lark integration, improved BLE connection reliability, added firmware flashing, and reduced GIF preview memory usage. | Swift, SwiftUI, CoreBluetooth, AI agents |
+| [ahakey-runtime-rust](https://github.com/ZephyrKeXiner/ahakey-runtime-rust) | Building an early Rust runtime for AhaKey Studio, with a BLE device discovery and connection prototype and Windows support. | Rust, Tokio, btleplug, BLE |
 
 ## Tech Stack
 
 <p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="Cpp" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
@@ -56,7 +57,7 @@
 
 ## Writing & Documentation
 
-- Chinese documentation contributor for [`@obss/sahi`](https://github.com/obss/sahi).
+- Maintaining Chinese translations and localized documentation for [`@obss/sahi`](https://github.com/obss/sahi).
 - Writing about technology, society, and the world on [Medium](https://medium.com/@aruiskyhappy2), [Zhihu](https://www.zhihu.com/people/sakruhnab1-54) and [X](https://x.com/Zephyrkexiner)
 
 ## Beyond Code
