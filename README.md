@@ -39,7 +39,7 @@
 | Project | Contributions | Stack / Focus |
 | --- | --- | --- |
 | [SAHI](https://github.com/obss/sahi) | Optimized crowded NMM postprocessing with claimed-box pruning and STRtree rebuilding, reaching [381.1x speedup on a 33,337-box IOS benchmark on M4 Pro](https://github.com/obss/sahi/pull/1426). Fixed Numba parity and macOS MPS auto-detection, and maintained Chinese documentation. | Python, NumPy, Shapely, Numba, PyTorch, MPS |
-| [AhakeyAI/desktop](https://github.com/AhakeyAI/desktop) | Contributed macOS VoiceAgent orchestration and Feishu/Lark integration, improved BLE connection reliability, added firmware flashing, and reduced GIF preview memory usage. | Swift, SwiftUI, CoreBluetooth, AI agents |
+| [AhaKey Desktop · Maintainer](https://github.com/AhakeyAI/desktop) | Maintainer of AhaKey's desktop platform, driving architectural design and ongoing open-source maintenance. Building the integration between native desktop experiences, AI agent orchestration, and hardware connectivity. | Swift, SwiftUI, CoreBluetooth, AI agents |
 | [ahakey-runtime-rust](https://github.com/ZephyrKeXiner/ahakey-runtime-rust) | Building an early Rust runtime for AhaKey Studio, with a BLE device discovery and connection prototype and Windows support. | Rust, Tokio, btleplug, BLE |
 
 ## Tech Stack
